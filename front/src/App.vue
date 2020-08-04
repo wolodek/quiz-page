@@ -1,28 +1,34 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <el-container class="max-width">
+      <el-tabs type="border-card" v-model="activeName">
+        <el-tab-pane label="Kategoria 1" name="first"><QuestionContainer /> </el-tab-pane>
+        <el-tab-pane label="Kategoria 2" name="second">Kategoria 2</el-tab-pane>
+        <el-tab-pane label="Kategoria 3" name="third">Kategoria 3</el-tab-pane>
+        <el-tab-pane label="Kategoria 4" name="fourth">Kategoria 4</el-tab-pane>
+      </el-tabs>
+    </el-container>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import QuestionContainer from './components/QuestionContainer'
 
 export default {
   name: 'App',
+  data() {
+    return {
+      activeName: 'first'
+    };
+  },
   components: {
-    HelloWorld
+    QuestionContainer,
   }
 }
 </script>
 
 <style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+.max-width {
+  width: 400px;
 }
 </style>
