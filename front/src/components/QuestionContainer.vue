@@ -1,6 +1,6 @@
 <template>
   <div class="question-container">
-    <el-container class="max-width">
+    <el-container class="max-width" justify="center" align="center">
       <el-main>
           <el-row>
             <el-col justify="middle" :span="20">
@@ -23,10 +23,14 @@
             </el-col>
           </el-row>
       </el-main>
-      <el-footer>
+      <el-footer class="p-0">
         <el-row>
-          <el-button plain disabled type="primary"> Poprzednie pytanie</el-button>
-          <el-button plain type="primary">Następne pytanie</el-button>
+          <el-button plain disabled type="primary"> 
+            Poprzednie <span class="hide-on-mobile"> pytanie </span>
+            </el-button>
+          <el-button plain type="primary">
+            Następne <span class="hide-on-mobile"> pytanie </span>
+          </el-button>
         </el-row>
       </el-footer>
     </el-container>
@@ -50,6 +54,11 @@ export default {
 <style scoped lang="scss">
 .min-height {
   min-height: 100px;
+}
+@media (max-width: 600px) {
+  .hide-on-mobile{
+    display: none;
+  }
 }
 
 </style>
