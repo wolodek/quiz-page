@@ -15,7 +15,7 @@
 </template>
 
 <script>
-import QuestionContainer from './components/QuestionContainer'
+import QuestionContainer from './components/QuestionContainer';
 
 export default {
   name: 'App',

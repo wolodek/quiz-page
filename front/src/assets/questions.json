@@ -1,0 +1,1896 @@
+[
+  {
+    "questionText": "CEO of Chesapeake Energy and Year Founded\n",
+    "answer": "Robert Lawler, 1971\n"
+  },
+  { "questionText": "CEO of Chevron\n", "answer": "Michael Wirth\n" },
+  { "questionText": "CEO of BP\n", "answer": "Robert Dudley\n" },
+  { "questionText": "CEO of ExxonMobil\n", "answer": "Darren Woods\n" },
+  {
+    "questionText": "Founder and CEO of Hilcorp\n",
+    "answer": "Jeffery Hildebrand\n"
+  },
+  {
+    "questionText": "CEO of Royal Dutch Shell\n",
+    "answer": "Ben van Beurden\n"
+  },
+  {
+    "questionText": "CEO of Devon Energy and Year Founded\n",
+    "answer": "David Hager 1989\n"
+  },
+  {
+    "questionText": "Which oil company has the highest oil production?\n",
+    "answer": "Saudi Aramco\n"
+  },
+  {
+    "questionText": "Top 5 oil producing companies\n",
+    "answer": "Saudi Aramco, Gazprom, National Iranian Oil Company, ExxonMobil, PetroChina\n"
+  },
+  {
+    "questionText": "List current total world oil reserves\n",
+    "answer": "1.7 trillion barrels\n"
+  },
+  {
+    "questionText": "List current total world gas reserves\n",
+    "answer": "6600 TCF\n"
+  },
+  {
+    "questionText": "What is the formula for effective porosity?\n",
+    "answer": "Volume(interconnected)/Volume(total)\n"
+  },
+  {
+    "questionText": "What are the top 5 countries with the largest natural gas reserves?\n",
+    "answer": "Iran (1200 TCF), Russia (1150 TCF), Qatar (866 TCF), Turkmenistan (617 TCF), U.S. (345 TCF)\n"
+  },
+  {
+    "questionText": "What are the top 5 countries with the largest oil reserves?\n",
+    "answer": "Venezuela (298.3 Billion bbl), Saudi Arabia (267 Billion bbl), Canada, (173 Billion Bbl), Iran (158 Billion Bbl), Iraq (150 Billion Bbl)\n"
+  },
+  {
+    "questionText": "Top 5 oil producing countries\n",
+    "answer": "U.S. (11.6 MMbbl/d), Saudi Arabia (11.5 MMbbl/d), Russia (10.8MMbbl/d), Canada (4.3 MMbbl/d), China (4.2 MMbbl/d)\n"
+  },
+  {
+    "questionText": "Top 5 oil consuming countries\n",
+    "answer": "U.S. (19 MMbbl/d), China (11 MMbbl/d), Japan (4.3MMbbl/d), India (3.8 MMbbl/d), Brazil (3.2 MMbbl/d)\n"
+  },
+  {
+    "questionText": "Top 5 oil importing countries\n",
+    "answer": "U.S., China, India, Japan, and South Korea\n"
+  },
+  {
+    "questionText": "Top 5 oil exporting countries\n",
+    "answer": "Saudi Arabia, Russia, Iran, Iraq, Nigeria\n"
+  },
+  {
+    "questionText": "Top 5 gas producing countries\n",
+    "answer": "U.S. (728 MMMCM), Russia (579 MMMCM), Qatar (177 MMMCM), Iran (173 MMMCM), Canada (162 MMMCM)\n"
+  },
+  {
+    "questionText": "Top 5 gas consuming countries\n",
+    "answer": "U.S. (760 MMMCM), Russia (400 MMMCM), China (185 MMMCM), Iran  (170 MMMCM), Japan (113 MMMCM)\n"
+  },
+  {
+    "questionText": "Top 5 gas importing countries\n",
+    "answer": "Japan, Germany, U.S., China, Italy\n"
+  },
+  {
+    "questionText": "Top 5 gas exporting countries\n",
+    "answer": "Russia, Qatar, Norway, Canada, Turkmenistan\n"
+  },
+  {
+    "questionText": "Formula for rate during exponential decline\n",
+    "answer": "Q=Q_i*exp(-d*i*t)\n"
+  },
+  {
+    "questionText": "Who invented the earliest form of ESP (electric submersible pump)?\n",
+    "answer": "Armais Arutunoff\n"
+  },
+  {
+    "questionText": "To what state did Arutunoff relocate his ESP project?\n",
+    "answer": "Oklahoma\n"
+  },
+  {
+    "questionText": "Where was the first successful ESP implementation?\n",
+    "answer": "Kansas\n"
+  },
+  {
+    "questionText": "Who was the first woman SPE president?\n",
+    "answer": "DeAnn Craig, 1998\n"
+  },
+  { "questionText": "How many countries are in SPE?\n", "answer": "154\n" },
+  {
+    "questionText": "Deepest oil well and where\n",
+    "answer": "Around 40,604 ft. in Sakhalin Russia (Exxon)\n"
+  },
+  {
+    "questionText": "What is the Way Ahead?\n",
+    "answer": "Young professionals\u2019 magazine that SPE publishes every year\n"
+  },
+  {
+    "questionText": "Highest award that you can win as an SPE member?\n",
+    "answer": "Honorary Member Award\n"
+  },
+  {
+    "questionText": "What is the theoretical maximum porosity in a cubic, rhombohedral, and hexagonal packing?\n",
+    "answer": "47.6%, 26.0%, and 39.5% respectively\n"
+  },
+  {
+    "questionText": "What's the theoretical maximum mud weight?\n",
+    "answer": "19.23 ppg\n"
+  },
+  {
+    "questionText": "What is the current rotary rig count in the US and Canada?\n",
+    "answer": "1,633 and 655\n"
+  },
+  {
+    "questionText": "What is the initial GOR in a black oil reservoir?\n",
+    "answer": "<2000 scf/STB\n"
+  },
+  {
+    "questionText": "Name 3 kill operations in a well control situation\n",
+    "answer": "driller's method, wait and weight, and bullheading\n"
+  },
+  {
+    "questionText": "What does the term \u201csegregated flow\u201d mean, and which factors determine this flow condition?\n",
+    "answer": "Fluids separate according to density, and the flow is segregated flow if gravity gradients dominate the flow g\u0394\u03c1>>dP/dx\n"
+  },
+  {
+    "questionText": "What does the term \u201cdiffuse flow\u201d mean and which factors determine this flow condition?\n",
+    "answer": "Fluids do not separate according to density and the flow is diffuse flow if dynamic pressure gradients dominate the flow, dP/dx>> g\u0394\u03c1 (leads to uniform saturation distribution vertically)\n"
+  },
+  {
+    "questionText": "Define formation volume factor\n",
+    "answer": "Reservoir volume/standard volume\n"
+  },
+  {
+    "questionText": "Which two main types of boundary conditions are normally used to represent reservoir fluid production and injection?\n",
+    "answer": "Bottom hole pressure specified and production rate specified\n"
+  },
+  {
+    "questionText": "Which log provides a good measurement of the Hydrogen in the formation?\n",
+    "answer": "Neutron\n"
+  },
+  {
+    "questionText": "What are the three elements used as the source of natural gamma rays in sedimentary rocks?\n",
+    "answer": "Thorium, Uranium, and Potassium\n"
+  },
+  {
+    "questionText": "What is the physical law that gives the pressure drop in a fluid across a cylindrical tube?\n",
+    "answer": "It assumes that the flow is laminar, viscous and incompressible. It also assumes that the flow traveled is longer than the diameter of the cross-sectional area? Hagen-Poisuelle Equation, \u0394P=8\u03bcLQ/(\u03c0r4)\n"
+  },
+  {
+    "questionText": "Define the tortuosity.\n",
+    "answer": "The ratio between the length of the curve to the distance between the endpoints\n"
+  },
+  {
+    "questionText": "Define kinematic viscosity\n",
+    "answer": "Apparent viscosity divided by density of the fluid\n"
+  },
+  {
+    "questionText": "What is a top kill operation?\n",
+    "answer": "Heavy mud is pumped from the well head down to the pot tom, forcing oil and gas to back flow to the formation.\n"
+  },
+  {
+    "questionText": "In structural geology, what is the name for a fold that is convex up and has its oldest beds at its core?\n",
+    "answer": "anticline\n"
+  },
+  {
+    "questionText": "What is the term for any geological fold that is convex up?\n",
+    "answer": "antiform\n"
+  },
+  {
+    "questionText": "In structural geology, what is the name of a downward-curving fold with layers that dip toward the center of the structure?\n",
+    "answer": "syncline\n"
+  },
+  {
+    "questionText": "What is the most common type of cement in general use around the world because it is a basic ingredient of concrete, mortar, stucco and non-specialty grout?\n",
+    "answer": "Portland cement\n"
+  },
+  {
+    "questionText": "What are the 3 types of structural traps?\n",
+    "answer": "Anticline, fault, salt dome\n"
+  },
+  {
+    "questionText": "What are the types of secondary porosity in carbonate rocks?\n",
+    "answer": "Fenestral, shelter, intracrystalline, moldic, vuggy, or fracture porosities\n"
+  },
+  {
+    "questionText": "Which type of reservoirs does the SEC allow oil companies to report?\n",
+    "answer": "Proved\n"
+  },
+  {
+    "questionText": "What does the acronym SCSSV stand for?\n",
+    "answer": "Surface Controlled Subsurface Safety Valve\n"
+  },
+  {
+    "questionText": "What does the acronym FPSO stand for?\n",
+    "answer": "Floating Production Storage and Offloading\n"
+  },
+  {
+    "questionText": "What is the term for a higher perm layer above or beneath multiple lower perm layers?\n",
+    "answer": "Thief Zones\n"
+  },
+  {
+    "questionText": "What is the apparatus used to measure mud filtrate volume and mud cake thickness?\n",
+    "answer": "API filter press\n"
+  },
+  {
+    "questionText": "What apparatus measures the viscosity of a fluid?\n",
+    "answer": "Rheometer viscometer\n"
+  },
+  {
+    "questionText": "Does cement fracture easier under tension or compression? By what factor do these values differ?\n",
+    "answer": "Tension, factor of 10\n"
+  },
+  {
+    "questionText": "Name the geologic periods in order from oldest to most recent.\n",
+    "answer": "Precambrian, Cambrian, Ordovician, Silurian, Devonian, Mississippian, Pennsylvanian, Permian, Triassic, Jurassic, Cretaceous, Paleogene, Neogene (P-COS-DM-PPT-JC-PN)\n"
+  },
+  {
+    "questionText": "Name the three stages of flow and the pressure and flow rate profiles associated with each.\n",
+    "answer": "Infinite-acting: constant rate, non-linear pressure decline Pseudo-steadystate: constant rate, linear pressure decline Depletion flow: non-linear rate, constant pressure\n"
+  },
+  {
+    "questionText": "What is a stripper well?\n",
+    "answer": "Well that strips less than 10 bbl/day of crude oil or 60 MCFD of gas\n"
+  },
+  {
+    "questionText": "Name four types of naturally occurring hydrocarbons\n",
+    "answer": "Paraffins, Cycloparaffins, Aromatics, Asphalts\n"
+  },
+  {
+    "questionText": "What does a Dykstra-Parsons coefficient of 1 imply about a reservoir?\n",
+    "answer": "heterogeneous reservoir\n"
+  },
+  {
+    "questionText": "This thermodynamic principle mentioned by Van der Waals indicates that all fluids at the same reduced temperature and pressure have the same compressibility factor and deviate from ideal gas behavior to the same degree.\n",
+    "answer": "Principle of corresponding states\n"
+  },
+  {
+    "questionText": "What is the principle of Corresponding States and how is it used?\n",
+    "answer": "Fluid properties can be related to a fluid\u2019s critical temperature and pressure. Can be used to calculate z-factors.\n"
+  },
+  {
+    "questionText": "What are two fluid sampling methods?\n",
+    "answer": "Surface and Subsurface sample\n"
+  },
+  {
+    "questionText": "What are some fluid characteristics of black oil?\n",
+    "answer": "GOR < 2000 scf/STB API gravity below 45 deg API Formation Volume Factor < 2 RB/STB C7+ higher than 20%\n"
+  },
+  {
+    "questionText": "What is the molecular weight of air?\n",
+    "answer": "29 g/gmol\n"
+  },
+  {
+    "questionText": "What is the standard temperature across the United States?\n",
+    "answer": "60 degrees Fahrenheit\n"
+  },
+  {
+    "questionText": "What is the standard pressure across the United States?\n",
+    "answer": "14.7 psia\n"
+  },
+  {
+    "questionText": "What is the primary function of solvent in the EOR process?\n",
+    "answer": "Decreases the interfacial tension between the oil and the other phases\n"
+  },
+  {
+    "questionText": "This thermodynamic variable is equal to the pressure of an ideal gas that has the same chemical potential as the real gas. In other words, it becomes equal to the pressure of the fluid at pressures low enough that the fluid approaches ideal gas state.\n",
+    "answer": "Fugacity\n"
+  },
+  {
+    "questionText": "What fluid is commonly used in carbonate reservoir simulation?\n",
+    "answer": "Carbonic Acid\n"
+  },
+  {
+    "questionText": "What is the primary purpose of polymer injection?\n",
+    "answer": "Improve sweep efficiency\n"
+  },
+  {
+    "questionText": "What is the term for global rise and fall of sea level?\n",
+    "answer": "Eustasy\n"
+  },
+  {
+    "questionText": "What are two types of common polymer flooding?\n",
+    "answer": "Alkaline flooding, Micellar-polymer flooding\n"
+  },
+  {
+    "questionText": "What operating pressure differentiates matrix acidizing from fracture acidizing?\n",
+    "answer": "Injection Pressure\n"
+  },
+  {
+    "questionText": "What piece of common production facility equipment is used to remove any free water in the produced oil? free-water knockout\n",
+    "answer": "\n"
+  },
+  {
+    "questionText": "SP, Gamma Ray, Resistivity, Sonic, Density, Dipmeter, Microlog\n",
+    "answer": "\n"
+  },
+  { "questionText": "Induction, Lateral\n", "answer": "\n" },
+  { "questionText": "Vogel\u2019s Equation for two phases\n", "answer": "\n" },
+  { "questionText": "Casing and Tubing Guns\n", "answer": "\n" },
+  { "questionText": "51.5 lbm/ cu. Ft\n", "answer": "\n" },
+  { "questionText": "Smectite\n", "answer": "\n" },
+  { "questionText": "Mud Acid\n", "answer": "\n" },
+  { "questionText": "Glycol Tower\n", "answer": "\n" },
+  { "questionText": "Exponential, Hyperbolic, Harmonic\n", "answer": "\n" },
+  {
+    "questionText": "rate of return, internal rate of return\n",
+    "answer": "\n"
+  },
+  { "questionText": "Dewatering the field\n", "answer": "\n" },
+  { "questionText": "gas-to-liquid\n", "answer": "\n" },
+  { "questionText": "gas condensate\n", "answer": "\n" },
+  { "questionText": "Dispersed, Structural, Laminated DSL\n", "answer": "\n" },
+  { "questionText": "Black-oil\n", "answer": "\n" },
+  { "questionText": "in-situ-combustion\n", "answer": "\n" },
+  {
+    "questionText": "Work done per unit area in expanding the surface of a liquid in contact with another phase\n",
+    "answer": "\n"
+  },
+  {
+    "questionText": "work done per unit area in expanding surface of a liquid against its own vapor phase\n",
+    "answer": "\n"
+  },
+  {
+    "questionText": "P/z plots, Material Balance, Volumetrics\n",
+    "answer": "\n"
+  },
+  { "questionText": "Connate, Virgin\n", "answer": "\n" },
+  { "questionText": "Structural, Stratigraphic\n", "answer": "\n" },
+  { "questionText": "Formation Factor\n", "answer": "\n" },
+  {
+    "questionText": "Laminar flow, steady state, non-compressible fluid, complete segregation (non-interacting fluid)\n",
+    "answer": "\n"
+  },
+  {
+    "questionText": "Critical Point, Bubble Point, Dew Point, Cricondentherm, Cricondenbar\n",
+    "answer": "\n"
+  },
+  {
+    "questionText": "Maximum temperature at which two phases can exist\n",
+    "answer": "\n"
+  },
+  {
+    "questionText": "Maximum pressure at which two phases can exist\n",
+    "answer": "\n"
+  },
+  { "questionText": "Dr. M King Hubbert\n", "answer": "\n" },
+  {
+    "questionText": "Prince Abdulaziz bin Salman bin Abdulaziz al-Saud (2019)\n",
+    "answer": "\n"
+  },
+  { "questionText": "Gorgon gas field\n", "answer": "\n" },
+  { "questionText": "OGX, Started in 2007 by Eike Batista\n", "answer": "\n" },
+  {
+    "questionText": "Bolivar Coastal Field on Lake Maracaibo discovered 1917\n",
+    "answer": "\n"
+  },
+  { "questionText": "1953\n", "answer": "\n" },
+  { "questionText": "Carioca/Sugarloaf field\n", "answer": "\n" },
+  { "questionText": "Petroecuador\n", "answer": "\n" },
+  { "questionText": "Texaco (Chevron Texaco is being sued)\n", "answer": "\n" },
+  {
+    "questionText": "ConocoPhillips, Exxon Mobil, Chevron, and Marathon Oil\n",
+    "answer": "\n"
+  },
+  { "questionText": "Chevron\n", "answer": "\n" },
+  {
+    "questionText": "Direct Petroleum Exploration (from Denver, CO)\n",
+    "answer": "\n"
+  },
+  {
+    "questionText": "What is the name of the field of the BP oil spill?\n",
+    "answer": "Macondo\n"
+  },
+  {
+    "questionText": "What is the name of the well of the BP oil spill?\n",
+    "answer": "MC252: Mississippi Canyon 252\n"
+  },
+  {
+    "questionText": "What was the date of the BP blowout?\n",
+    "answer": "April 20, 2010\n"
+  },
+  {
+    "questionText": "What is the name of the rig that blew out and subsequently sunk in the ocean during the BP blowout?\n",
+    "answer": "Deepwater horizon\n"
+  },
+  {
+    "questionText": "What service company owned Deepwater Horizon?\n",
+    "answer": "Transocean\n"
+  },
+  {
+    "questionText": "What service was Halliburton providing during the BP explosion?\n",
+    "answer": "Cementing\n"
+  },
+  {
+    "questionText": "How many workers died during the BP accident?\n",
+    "answer": "11\n"
+  },
+  {
+    "questionText": "Approximately what was the water depth of the MC252 wellhead?\n",
+    "answer": "5000 ft\n"
+  },
+  {
+    "questionText": "On what date did the work of the first relief well commence after the BP accident?\n",
+    "answer": "May 2, 2010\n"
+  },
+  {
+    "questionText": "What was the name of the rig used to drill the relief well after the BP incident?\n",
+    "answer": "Development Driller III\n"
+  },
+  {
+    "questionText": "What companies are the two other partners with BP in the accident\u2019s block?\n",
+    "answer": "Anadarko Petroleum Corporation and MOEX Offshore 2007\n"
+  },
+  {
+    "questionText": "What are the shares of BPs partners in the Macondo project?\n",
+    "answer": "Anadarko: 25% and MOEX: 10%\n"
+  },
+  {
+    "questionText": "What convicted terrorist\u2019s release has been linked to a BP oil deal with Libya?\n",
+    "answer": "The Lockerbie bomber (abdel Basset Al-Megrahi)\n"
+  },
+  {
+    "questionText": "Which country has the most proved oil reserves in Africa?\n",
+    "answer": "Libya\n"
+  },
+  {
+    "questionText": "Which famous Nigerian playwright and activist was executed in 1995 and brought international light to the corruption in their oil industry?\n",
+    "answer": "Ken Saro-Wiwa\n"
+  },
+  {
+    "questionText": "What was the name of the largest oilfield in Gabon?\n",
+    "answer": "Rabi-Kounga\n"
+  },
+  {
+    "questionText": "Who operates the Rabi-Kounga field?\n",
+    "answer": "Shell\n"
+  },
+  {
+    "questionText": "What company is the largest foreign producer of oil in Algeria?\n",
+    "answer": "Anadarko\n"
+  },
+  {
+    "questionText": "According to BPs CEO, initially what was the flowing rate?\n",
+    "answer": "5,000 bbl/day\n"
+  },
+  {
+    "questionText": "In what year was Exxon-Valdez spill?\n",
+    "answer": "March 24, 1989\n"
+  },
+  {
+    "questionText": "Besides the recent spill in the Gulf, which is the largest oil spill in history?\n",
+    "answer": "Kuwait, 1991.\n"
+  },
+  {
+    "questionText": "Wells blown by Sadam Hussein\u2019s army. Which of the seven sisters did T.Boone Pickens attempt to takeover? Who bought them?\n",
+    "answer": "Gulf, Chevron\n"
+  },
+  {
+    "questionText": "What was the name of the failed field in Alaska?\n",
+    "answer": "Mukluk\n"
+  },
+  {
+    "questionText": "Who sued who over the sale of Getty Oil?\n",
+    "answer": "Pennzoil sued Texaco\n"
+  },
+  {
+    "questionText": "What was the original name of Nymex?\n",
+    "answer": "Butter and Cheese Exchange\n"
+  },
+  {
+    "questionText": "This refined product is publicly traded through the NYMEX with the trading symbol of RB\n",
+    "answer": "reformulated gasoline blendstock for oxygen blending\n"
+  },
+  {
+    "questionText": "Before allowing futures trading of Oil & Gas, NYMEX was well known for it's futures trading on what crop?\n",
+    "answer": "Potato\n"
+  },
+  { "questionText": "Who bought Conoco in the 1980s?\n", "answer": "Dupont\n" },
+  {
+    "questionText": "Who was the first general secretary of OPEC?\n",
+    "answer": "Faud Houhani (Iraq)\n"
+  },
+  {
+    "questionText": "Who was the President of Conoco who made them into an international powerhouse?\n",
+    "answer": "Leonard McCollum\n"
+  },
+  {
+    "questionText": "What actor appeared regularly on Texaco Star Theater?\n",
+    "answer": "Milton Berle\n"
+  },
+  {
+    "questionText": "What is the longest pipeline in Europe also known as the \u201cfriendship pipeline?\u201d\n",
+    "answer": "Druzhba Pipeline that goes from Russia to Germany and is about 4000 km in length\n"
+  },
+  {
+    "questionText": "What is Exxon\u2019s slogan?\n",
+    "answer": "Put a tiger in your tank\n"
+  },
+  {
+    "questionText": "What year was Britain\u2019s clean air act passed?\n",
+    "answer": "1957\n"
+  },
+  {
+    "questionText": "What significant conflict in an oil country occurred at the same time as the six day war?\n",
+    "answer": "Civil war in Nigeria\n"
+  },
+  {
+    "questionText": "What octogenarian U.S. oil man went to jail for his role in the fuel for food scandal?\n",
+    "answer": "Oscar Wyatt\n"
+  },
+  {
+    "questionText": "Who has drilled the deepest oil well to date?\n",
+    "answer": "Exxon drilled the deepest oil well in Sakhalin 40,604 ft\n"
+  },
+  {
+    "questionText": "What is the largest oil field in the North Sea by reserves?\n",
+    "answer": "Forties\n"
+  },
+  {
+    "questionText": "What company recently made a large discovery in 20 ft of water off the Louisiana coast?\n",
+    "answer": "McMoran\n"
+  },
+  {
+    "questionText": "What is the largest oilfield in North America?\n",
+    "answer": "Prudhoe Bay in Alaska\n"
+  },
+  {
+    "questionText": "What are the top 4 producing states in U.S 2019?\n",
+    "answer": "Texas, Alaska, California, North Dakota\n"
+  },
+  {
+    "questionText": "What company just made the largest discovery in California in the last 35 years?\n",
+    "answer": "Occidental\n"
+  },
+  {
+    "questionText": "What Texas oil man donated a large part of his wealth to the University of Houston?\n",
+    "answer": "Roy Cullen\n"
+  },
+  {
+    "questionText": "What are the top 5 exporting European countries?\n",
+    "answer": "Norway, United Kingdom, Italy, Netherlands, Belgium\n"
+  },
+  {
+    "questionText": "The Ammott index measures what property of a rock?\n",
+    "answer": "Wettability\n"
+  },
+  { "questionText": "When did Petrobowl start?\n", "answer": "2002\n" },
+  {
+    "questionText": "Name all the champions of Petrobowl.\n",
+    "answer": "LSU (2019), Universidad Nacional Aut\u00f3noma de M\u00e9xico (2018, 2017, 2015), Universidade Federal Do Rio De Janeiro (2016), University of Tulsa (2014), University of Texas at Austin (2011, 2009), University of Oklahoma (2010, 2008, 2007), Colorado School of Mines (2013, 2012, 2006), Texas A&M (2005 & 2003) Montana Tech (2004), Texas Tech (2002)\n"
+  },
+  {
+    "questionText": "What three teams won Petrobowl thrice?\n",
+    "answer": "Colorado School of Mines, University of Oklahoma, Universidad Nacional Aut\u00f3noma de M\u00e9xico\n"
+  },
+  {
+    "questionText": "Petrobowl had what milestone(s)\n",
+    "answer": "Largest Petrobowl, Largest international participation, First MVP award presented\n"
+  },
+  {
+    "questionText": "Who organizes the questions for Petrobowl?\n",
+    "answer": "SPE Gulf Coast section young professionals board\n"
+  },
+  {
+    "questionText": "Where will ATCE be held in the next years?\n",
+    "answer": "Houston (2015), Dubai (2016), San Antonio (2017), Dallas (2018), Calgary (2019) Where were the last 3 ATCE held? Amsterdam (2014), New Orleans (2013), San Antonio (2012)\n"
+  },
+  {
+    "questionText": "Who are the biggest oilfield service companies (top 5?)\n",
+    "answer": "Schlumberger Limited, Halliburton, Saipem, Transocean Ltd., Baker Hughes\n"
+  },
+  {
+    "questionText": "What is the largest merger in American History?\n",
+    "answer": "Exxon + Mobil\n"
+  },
+  {
+    "questionText": "What is the largest oil spill?\n",
+    "answer": "Gulf War oil spill, oil tankers, January 21, 1991\n"
+  },
+  {
+    "questionText": "Where was the first over-water oil well drilled?\n",
+    "answer": "Caddo Lake, Gulf Oil 1911\n"
+  },
+  {
+    "questionText": "Which three countries did the Adriatic section comprise from 1987-1991?\n",
+    "answer": "Italy, Yugoslavia, and Austria\n"
+  },
+  {
+    "questionText": "When did the Adriatic section change its name to the Italian Section?\n",
+    "answer": "1995\n"
+  },
+  {
+    "questionText": "What is the oldest Italian oil company?\n",
+    "answer": "SPI\n"
+  },
+  {
+    "questionText": "What oil-bearing formation in Montana, North Dakota, and Saskatchewan is produced with horizontal wells and hydraulic fracturing?\n",
+    "answer": "The Bakken formation\n"
+  },
+  {
+    "questionText": "How much recoverable oil does the USGS estimate is in the Bakken Formation?\n",
+    "answer": "4.4 - 11.4 billion barrels (7.4 billion barrel average)\n"
+  },
+  {
+    "questionText": "Name 5 shale gas plays in the United States.\n",
+    "answer": "Barnett, Bakken, Eagleford, Haynesville, Marcellus\n"
+  },
+  {
+    "questionText": "How much shale gas was produced in the United States in 2014?\n",
+    "answer": "9.63 TCF\n"
+  },
+  {
+    "questionText": "Who regulates the reserves reporting requirements?\n",
+    "answer": "SEC\n"
+  },
+  {
+    "questionText": "Under what price were reserves booked under the old rules?\n",
+    "answer": "Year-End Under what price are reserves booked under the new rules/ Average\n"
+  },
+  {
+    "questionText": "When were the SEC reporting requirements last amended?\n",
+    "answer": "1982\n"
+  },
+  {
+    "questionText": "Were unconventional reserves \u201cbookable\u201d under the previous SEC reporting requirements?\n",
+    "answer": "No\n"
+  },
+  {
+    "questionText": "When did the new SEC rules take effect?\n",
+    "answer": "January 1 2010\n"
+  },
+  {
+    "questionText": "In what decade was Ghawar discovered?\n",
+    "answer": "1940s (1948)\n"
+  },
+  {
+    "questionText": "What are the two most productive operating areas in Ghawar, and where are they located in the field?\n",
+    "answer": "Ain Dar, Shedgum\n"
+  },
+  {
+    "questionText": "What is the name of the most productive carbonate formation (not field) in Saudi Arabia?\n",
+    "answer": "Arab D Zone 2-B\n"
+  },
+  {
+    "questionText": "What are the three largest oilfields in Saudi Arabia?\n",
+    "answer": "Ghawar, Abqaiq, Shaybah\n"
+  },
+  {
+    "questionText": "What is the world\u2019s largest offshore field?\n",
+    "answer": "Safaniya\n"
+  },
+  {
+    "questionText": "Name the five largest oilfields in the world.\n",
+    "answer": "Ghawar, Burgan, Cantarell, Daquing, Kirkuk\n"
+  },
+  {
+    "questionText": "What is the second largest oilfield in the United States and where is it located?\n",
+    "answer": "Kuparuk River, North Slope\n"
+  },
+  {
+    "questionText": "What is the largest oilfield in Iraq and when was it discovered?\n",
+    "answer": "Kirkuk, 1927\n"
+  },
+  {
+    "questionText": "When did United States oil production peak?\n",
+    "answer": "Early 1970\n"
+  },
+  {
+    "questionText": "What was the peak United States oil production?\n",
+    "answer": "10.2 MMbbl/day\n"
+  },
+  {
+    "questionText": "The Society of Petroleum Engineers began as part of which organization?\n",
+    "answer": "American Institute of Mining Engineers\n"
+  },
+  { "questionText": "What year was SPE formed?\n", "answer": "1957\n" },
+  {
+    "questionText": "Who was the first president of SPE?\n",
+    "answer": "John Hammond\n"
+  },
+  {
+    "questionText": "Who is the 2020 SPE president?\n",
+    "answer": "Shauna Noonan\n"
+  },
+  {
+    "questionText": "How many SPE members were recorded at the end of 2018?\n",
+    "answer": "156,109\n"
+  },
+  {
+    "questionText": "How many SPE student members were recorded at the end of 2018?\n",
+    "answer": "72,009\n"
+  },
+  {
+    "questionText": "How many countries have SPE organizations?\n",
+    "answer": "154\n"
+  },
+  {
+    "questionText": "Who was the first and only Italian SPE president?\n",
+    "answer": "Giovanni Paccaloni\n"
+  },
+  {
+    "questionText": "What is a whipstock?\n",
+    "answer": "An angle to build off\n"
+  },
+  {
+    "questionText": "What is a bent sub?\n",
+    "answer": "A tool to build an angle\n"
+  },
+  {
+    "questionText": "Who is the current CEO and chairman of Chevron?\n",
+    "answer": "Mike Wirth (2018)\n"
+  },
+  {
+    "questionText": "Chevron was originally known as which of the dissolved company of Standard Oil Trust?\n",
+    "answer": " Standard Oil of California\n"
+  },
+  {
+    "questionText": "When was Pacific Coast Oil Company founded?\n",
+    "answer": "1879\n"
+  },
+  {
+    "questionText": "SoCal took the name Chevron in 1984 when it merged with which company?\n",
+    "answer": "Gulf Oil\n"
+  },
+  {
+    "questionText": "Chevron acquired two companies in the past ten years. Name these companies.\n",
+    "answer": "Texaco and Unocal\n"
+  },
+  {
+    "questionText": "Texaco can trace its roots to which company formed in Beaumont, TX in 1901?\n",
+    "answer": "Texas Fuel Company\n"
+  },
+  {
+    "questionText": "Chevron markets fuel under several brand names. What are these?\n",
+    "answer": "Chevron, Standard Oil, Texaco, Caltex, Gulf Oil, Unocal\n"
+  },
+  {
+    "questionText": "Who was the first female president of SPE?\n",
+    "answer": "Deann Craig (1998)\n"
+  },
+  {
+    "questionText": "Who was the first non-American SPE president?\n",
+    "answer": "Jacques Bosio (1993)\n"
+  },
+  {
+    "questionText": "In what year was the first offshore Technology Conference held?\n",
+    "answer": "1969\n"
+  },
+  {
+    "questionText": "Where is the SPE Offshore Technology Conference, or OTC, held every year?\n",
+    "answer": "Houston, Texas\n"
+  },
+  {
+    "questionText": "What SPE journal presents authoritative briefs and features on E&P technology advancements, oil and gas industry issues, and news about SPE and its members?\n",
+    "answer": "Journal of Petroleum Technology\n"
+  },
+  {
+    "questionText": "In what year was the first issue of SPE Journal published?\n",
+    "answer": "1961\n"
+  },
+  {
+    "questionText": "In 1986, SPE launched four discipline-specific technical journals. Name these.\n",
+    "answer": "Drilling Engineering, Production Engineering, Formation Evaluation, Reservoir Engineering\n"
+  },
+  {
+    "questionText": "What SPE journal is designed specifically for young professionals?\n",
+    "answer": "The Way Ahead\n"
+  },
+  {
+    "questionText": "What were the names of the two Schlumberger brothers?\n",
+    "answer": "Conrad, Marcel\n"
+  },
+  {
+    "questionText": "What year did Schlumberger first open for business?\n",
+    "answer": "1920\n"
+  },
+  {
+    "questionText": "Where was Schlumberger\u2019s first office located?\n",
+    "answer": "Paris, France\n"
+  },
+  {
+    "questionText": "In 1940 Schlumberger\u2019s headquarters was relocated, to where?\n",
+    "answer": "Houston, Texas\n"
+  },
+  {
+    "questionText": "In 1999,the world\u2019s largest drilling fluids company was created through a joint venture between Schlumberger and which other service company?\n",
+    "answer": "Smith International\n"
+  },
+  {
+    "questionText": "What year was the gamma-ray log introduced?\n",
+    "answer": "1939\n"
+  },
+  {
+    "questionText": "What year was Exxon Mobil founded?\n",
+    "answer": "1999 (through a merger)\n"
+  },
+  {
+    "questionText": "Which country is the largest consumer of natural gas?\n",
+    "answer": "United States\n"
+  },
+  {
+    "questionText": "Who developed the first electrical log\n",
+    "answer": "The Schlumberger Brothers\n"
+  },
+  {
+    "questionText": "What company merged to create Baker Hughes?\n",
+    "answer": "Baker International and Hughes Tool Company\n"
+  },
+  {
+    "questionText": "Who is the founder of Smith International?\n",
+    "answer": "Herman C. Smith\n"
+  },
+  {
+    "questionText": "What year was Baker Hughes Company founded?\n",
+    "answer": "1987\n"
+  },
+  {
+    "questionText": "What invention is the Hughes Tool Company most known for?\n",
+    "answer": "first rotary drill bit\n"
+  },
+  {
+    "questionText": "In 1970, Ruben C. Baker invented the Baker Casing Shoe. How did this invention improve oil production?\n",
+    "answer": "Uninterrupted flow of oil through well\n"
+  },
+  {
+    "questionText": "In the New York Stock Exchange what is Halliburton\u2019s ticker symbol?\n",
+    "answer": "HAL\n"
+  },
+  {
+    "questionText": "What year did Halliburton go public?\n",
+    "answer": "1948\n"
+  },
+  {
+    "questionText": "In 1995, who was named President, chairman and CEO of Halliburton?\n",
+    "answer": "Dick Cheney\n"
+  },
+  {
+    "questionText": "Where is Weatherford International\u2019s headquarters located?\n",
+    "answer": "Houston, Texas\n"
+  },
+  {
+    "questionText": "What year was the first offshore oil platform built?\n",
+    "answer": "1938\n"
+  },
+  {
+    "questionText": "What company constructed the first offshore oil platform?\n",
+    "answer": "Superior Oil\n"
+  },
+  {
+    "questionText": "What oil company owns the largest oil platform?\n",
+    "answer": "Sakhalin-1 (Berkut oil Platform) [Sakhalin-1 is a consortium consisting of Rosneft, Exxon Mobile, SODECO and ONGC Videsh Ltd]\n"
+  },
+  {
+    "questionText": "What was the date of the highest price of oil per barrel occur?\n",
+    "answer": "June, 2008\n"
+  },
+  {
+    "questionText": "What is the name of the Schlumberger researcher that developed of the SP log?\n",
+    "answer": "Henri Doll\n"
+  },
+  {
+    "questionText": "What company introduced the gamma ray log?\n",
+    "answer": "Well Surveys Inc.\n"
+  },
+  {
+    "questionText": "What is the capital of Saudi Arabia?\n",
+    "answer": "Riyadh\n"
+  },
+  { "questionText": "What is the capital of Iraq?\n", "answer": "Baghdad\n" },
+  { "questionText": "What is the capital of Iran?\n", "answer": "Tehran\n" },
+  { "questionText": "What is the capital of Angola?\n", "answer": "Luanda\n" },
+  {
+    "questionText": "What is the capital of Algeria?\n",
+    "answer": "Algiers\n"
+  },
+  {
+    "questionText": "What is the capital of United Arab Emirates?\n",
+    "answer": "Dubai\n"
+  },
+  {
+    "questionText": "What is the capital of Venezuela?\n",
+    "answer": "Caracas\n"
+  },
+  { "questionText": "What is the capital of Qatar?\n", "answer": "Doha\n" },
+  { "questionText": "What is the capital of Ecuador?\n", "answer": "Quito\n" },
+  { "questionText": "What is the capital of Libya?\n", "answer": "Tripoli\n" },
+  { "questionText": "What is the capital of Nigeria?\n", "answer": "Abuja\n" },
+  {
+    "questionText": "What year did Saudi and Aramco come to a 50/50 Deal?\n",
+    "answer": "1950\n"
+  },
+  {
+    "questionText": "What did Enrico Mattei do in the 1930s?\n",
+    "answer": "Manager at a chemical plant\n"
+  },
+  {
+    "questionText": "Who introduced Alfonzo and Tariki?\n",
+    "answer": "Wanda Jablonski\n"
+  },
+  {
+    "questionText": "What was the name of the precursor agreement to the formation of OPEC? What five countries were involved?\n",
+    "answer": "Gentlemen\u2019s Agreement. Iran, Iraq, Venezuela, Saudi Arabia, Kuwait\n"
+  },
+  {
+    "questionText": "Where did the Japanese consortium Arabian oil get their concession?\n",
+    "answer": "Offshore Neutral Zone\n"
+  },
+  {
+    "questionText": "What American company broke the 50/50 agreement in Iran after ENI?\n",
+    "answer": "Standard Oil of Indiana\n"
+  },
+  {
+    "questionText": "What was the Brownsville U-Turn?\n",
+    "answer": "Mexico had no pipelines so they shipped oil to Brownsville and then drove it across the border and then back to the U.S. to take advantage of tariff breaks for overland shipped oil\n"
+  },
+  {
+    "questionText": "Name the five original countries in OPEC\n",
+    "answer": "Iran, Iraq, Venezuela, Saudi Arabia, Kuwait\n"
+  },
+  {
+    "questionText": "When did Standard Oil antitrust break up?\n",
+    "answer": "1911\n"
+  },
+  {
+    "questionText": "What did Standard of Oil of New York turn into?\n",
+    "answer": "SOCONOY Mobil Exxon Mobil\n"
+  },
+  {
+    "questionText": "Who made up ARAMCO?\n",
+    "answer": "Jersey, SOCONY, Texaco, and Standard Oil of California\n"
+  },
+  {
+    "questionText": "Who was Anglo-Iranian\u2019s CEO?\n",
+    "answer": "Sir William Fraser\n"
+  },
+  {
+    "questionText": "How did the Shah come to power?\n",
+    "answer": "Allies put him in place of his Nazi-sympathizing dad\n"
+  },
+  {
+    "questionText": "What year did the oil lift take place?\n",
+    "answer": "1956\n"
+  },
+  {
+    "questionText": "Who was the leader of Egypt who nationalized the Suez?\n",
+    "answer": "Gamal Abdel Nasser\n"
+  },
+  {
+    "questionText": "Who built the Suez Canal?\n",
+    "answer": "\\Ferdinand de Lesseps\n"
+  },
+  { "questionText": "When was the Suez Canal finished?\n", "answer": "1869\n" },
+  {
+    "questionText": "Name the oil man who drilled the first well in the United States.\n",
+    "answer": "Colonel Edwin Drake\n"
+  },
+  {
+    "questionText": "Where and when was the first well drilled in the United States?\n",
+    "answer": "Titusville, Pennsylvania, 1859\n"
+  },
+  {
+    "questionText": "How deep was the first well drilled in the United States?\n",
+    "answer": "69 ft deep\n"
+  },
+  {
+    "questionText": "Name the promoter who organized an investor group for Silliman\u2019s study of \u201cRock Oil.\u201d George Bissel Who invented and patented \u201cKerosene?\u201d\n",
+    "answer": "Abraham Gesner\n"
+  },
+  {
+    "questionText": "When and where the first flowing well was drilled in the United States?\n",
+    "answer": "On 1861, at the rate of 3000 bbl/day in the Western Pennsylvania\n"
+  },
+  {
+    "questionText": "When was the peak oil production in Western Pennsylvania and what was the production rate?\n",
+    "answer": "1862, 3 million bbl/day\n"
+  },
+  {
+    "questionText": "When, where and for what price did John Rockefeller buy his first refinery?\n",
+    "answer": "1865, Cleveland, Ohio.\n"
+  },
+  {
+    "questionText": "Rockefeller won in private auction one of the city\u2019s biggest oil refineries for $72,500 against Maurice Clark Who owned the world\u2019s largest refinery at the end of the 1860s?\n",
+    "answer": "J.D. Rockefeller\n"
+  },
+  {
+    "questionText": "Name the closest partner of John Rockefeller who run oil transportation arrangements as well as founded Miami and Palm Beach and developed the state of Florida?\n",
+    "answer": "Henry Flagler\n"
+  },
+  {
+    "questionText": "When and where was Standard Oil founded?\n",
+    "answer": "Founded in 1870, by five men led by Rockefeller on 26 Broadway, NYC\n"
+  },
+  {
+    "questionText": "The world's first attempt at a long-distance pipeline would successfully connect the Oil Regions with the Pennsylvania and Reading Railroad. What name was this pipeline given and when was it built?\n",
+    "answer": "Tidewater Pipeline, 1879\n"
+  },
+  {
+    "questionText": "Name the sulfur rich oil field discovered at the mid of 1880s which soon gave one third of American oil production?\n",
+    "answer": "Lima-Indiana field, Ohio state\n"
+  },
+  {
+    "questionText": "Nowadays the majority of oil companies are vertically integrated. Name the person who founded this type of corporate management?\n",
+    "answer": "John Rockefeller\n"
+  },
+  {
+    "questionText": "When was the first well drilled in Baku?\n",
+    "answer": "1871/1872\n"
+  },
+  {
+    "questionText": "Later this person was called oil king of Baku, this person who established Nobel\u2019s Brother\u2019s Petroleum Company. Who was he?\n",
+    "answer": "Ludwig Nobel\n"
+  },
+  {
+    "questionText": "When did the Russian oil production reach 4/5 of the US production and how much was it?\n",
+    "answer": "1986, 23 million bbl/day\n"
+  },
+  {
+    "questionText": "Name the company of jewish family and the date it was established\n",
+    "answer": "BNITO, 1886 (Caspian and Black Sea Petroleum Company)\n"
+  },
+  {
+    "questionText": "Which company established a new branch in Britain 24 days after BNITO, also give the name of the company.\n",
+    "answer": "1888 \u2013 Standard Oil established its first foreign affiliate \u2013 AngloAmerican Company 24 days after the Rothschilds, becoming true Multinational enterprise\n"
+  },
+  {
+    "questionText": "Describe the revolutionary trip of Marcus Samuel.\n",
+    "answer": "1892- Marcus Samuel\u2019s Coupe: Murex \u2013 Marus Samuel\u2019s tanker sailed from West Hartlepool to Batum in Caspian region, where it was filled with BNITO\u2019s kerosene, then went to Singapore and later arrived to final destination\u2014Bangkok\n"
+  },
+  {
+    "questionText": "When was Royal Dutch created? Who created it?\n",
+    "answer": "1890 \u2013 Royal Dutch company was established by Aeilko Jans Zijlker\n"
+  },
+  {
+    "questionText": "When did Edison invent incandescent light bulb?\n",
+    "answer": "1878\n"
+  },
+  {
+    "questionText": "According to The Prize, give the years of the Kerosene Age.\n",
+    "answer": "1859-1900\n"
+  },
+  {
+    "questionText": "When and where was the first start of California oil boom?\n",
+    "answer": "1870s \u2013 oil boom in Ventura County and in San Fernando Valley, North of Los Angeles\n"
+  },
+  {
+    "questionText": "Give the correct order of leading producer states from 1859 to 1(?)\n",
+    "answer": "Pennsylvania, California, Oklahoma, Texas\n"
+  },
+  {
+    "questionText": "Which company in California was the dominant producer before Socal?\n",
+    "answer": "Union Oil of California\n"
+  },
+  { "questionText": "When was SOcal founded?\n", "answer": "1907\n" },
+  {
+    "questionText": "When and where was Rotary Drilling technique first pioneered and used?\n",
+    "answer": "1900\u2014Corsicana, TX used in Spindletop\n"
+  },
+  {
+    "questionText": "By what event was Texas Oil Boom started and when was it?\n",
+    "answer": "Well Lucas 1 \u2013 Spindletop gusher ( 75,000 bbl/day) in 1901\n"
+  },
+  {
+    "questionText": "Give the year of the start of the Oklahoma oil boom\n",
+    "answer": "1901\n"
+  },
+  {
+    "questionText": "Which oil field in OK made the state a leading oil producer?\n",
+    "answer": "Glen Pool, Tulsa, Oklahoma\n"
+  },
+  {
+    "questionText": "When and by whom Gulf Oil was founded?\n",
+    "answer": "1907 by Mellons\n"
+  },
+  {
+    "questionText": "This person was a pioneer of the Texan oil industry by founding a new oil company. Name the person, his company and the date it was founded.\n",
+    "answer": "Joseph (Buckskin Joe) Cullinan, an aggressive Texas oil developer, Texaco, 1906\n"
+  },
+  {
+    "questionText": "Name the date of Rockefeller\u2019s retirement and his successor.\n",
+    "answer": "1897, John D. Archibold\n"
+  },
+  {
+    "questionText": "Name the author and date of publication of the book, The History of Standard Oil Company.\n",
+    "answer": "Ida Tarbell, 1904\n"
+  },
+  {
+    "questionText": "Name the president who caused Standard\u2019s break up and his year of election.\n",
+    "answer": "Theodore Roosevelt\n"
+  },
+  {
+    "questionText": "When did Standard oil break up? Name the companies it formed.\n",
+    "answer": "1911 Standard Oil of New Jersey \u2013 Exxon Standard Oil of New York \u2013 Chevron Oil of California \u2013 of Kentucky  \u2013Sohio Standard Oil of Indiana \u2013 Amoco Continental Oil \u2013 Conoco Atlantic\n"
+  },
+  {
+    "questionText": "When did the first gusher start in Borneo and what was it called?\n",
+    "answer": "1898, called Black Spot, oil was unsuitable for kerosene, but good for fuel oil\n"
+  },
+  {
+    "questionText": "This person was called \u201cNapoleon of Oil,\u201d he also led a new combination of two companies \u2013 competitors of Standard, name him and the combination he led.\n",
+    "answer": "Henri Deterding, \u201cBritish Dutch\u201d\n"
+  },
+  {
+    "questionText": "Name the company, created by Rothschilds at the beginning of 20th century.\n",
+    "answer": "Asiatic Petroleum Company\n"
+  },
+  {
+    "questionText": "When and how was Royal Dutch Shell Group formed, its primary share holders?\n",
+    "answer": "1907 \u2013 Royal Dutch/Shell Group (RDSG) was created by purchase of Royal Dutch 25% shares of Shell. Royal Dutch and Shell became holding companies, with the former holding 60% of the stock in the operating subsidiaries and the latter 40%\n"
+  },
+  {
+    "questionText": "When and how RDSG became an important player in Russia?\n",
+    "answer": "1912 \u2013 the Rothschilds sold their interests to RDSG, instantly making it a major economic force in Russia, with 20% control of its total oil production\n"
+  },
+  {
+    "questionText": "Who formed the European Petroleum Union?\n",
+    "answer": "Nobels, Rothschilds, Deutsche Ban\n"
+  },
+  {
+    "questionText": "When was the European Petroleum Union formed?\n",
+    "answer": "1906\n"
+  },
+  {
+    "questionText": "Name the Persian diplomat who made important connections to develop Persian oil industry.\n",
+    "answer": "Antonie Kitabgi\n"
+  },
+  {
+    "questionText": "This person made a very important contribution to Persian oil industry, organized first drilling operations and led the British Concession syndicate to develop oil industry in Persia. Who is this person?\n",
+    "answer": "Knox D\u2019Arcy\n"
+  },
+  {
+    "questionText": "Name the location and date of the first gusher in Persia.\n",
+    "answer": "Neutral Zone in 1908\n"
+  },
+  {
+    "questionText": "Give the name of the reorganized name of the British Concession.\n",
+    "answer": "Anglo-Persian Oil Company (APOC)\n"
+  },
+  {
+    "questionText": "Which company in England started the Persian oil industry development by investing on D\u2019Arcy\u2019s operations in Persia?\n",
+    "answer": "Burmah Oil in 1904\n"
+  },
+  {
+    "questionText": "What did Churchill learn about oil from Frisher?\n",
+    "answer": "It does not deteriorate It can be stored up in vast, defensible tanks that which was east of Suez was cheaper than coal\n"
+  },
+  {
+    "questionText": "When Churchill agreed to convert entire navy to oil?\n",
+    "answer": "1912\n"
+  },
+  {
+    "questionText": "In an effort to integrate, Anglo-Persian purchased one of the largest pipeline networks in the United Kingdom. What was the name of the company that owned the pipeline?\n",
+    "answer": "British Petroleum\n"
+  },
+  {
+    "questionText": "Used as an essential ingredient for TNT, it was generated from coal until able to extract from Shell\u2019s Borneo crude. What was this ingredient?\n",
+    "answer": "Toluol\n"
+  },
+  {
+    "questionText": "Of the many tankers sunk by German submarines in WWI, give the name of one lost by Standard Oil of New Jersey and Shell.\n",
+    "answer": "Standard Oil of New Jersey lost the John D. Archibold and Shell Lost the Murex\n"
+  },
+  {
+    "questionText": "Within 5 % give the percentage of petroleum supplied by the United States to Allied Forces in WWI.\n",
+    "answer": "0.8\n"
+  },
+  {
+    "questionText": "State the purpose and chairman of the National Petroleum War Service Committee during WWI.\n",
+    "answer": "It pooled the American oil supplies for Europe\n"
+  },
+  {
+    "questionText": "Alfred Bedford, president of Standard Oil of New Jersey The \u201cgolden lane\u201d is located in which country?\n",
+    "answer": "Mexico\n"
+  },
+  {
+    "questionText": "Located in Venezuela, what region led to the country\u2019s oil boom?\n",
+    "answer": "Lake Maracaibo Basin\n"
+  },
+  {
+    "questionText": "What type of drilling method brought Jersey off the sidelines and into the game in 1928?\n",
+    "answer": "Underwater Drilling\n"
+  },
+  {
+    "questionText": "What was the name of the field that brought the boom to East Texas?\n",
+    "answer": " The Black Giant Name the well in 1930 that brought attention to the Black Giant and its initial production. Daisy Bradford # 3, 340,000 bbl/day\n"
+  },
+  {
+    "questionText": "This entity was called in to stop the over-production in the Texas fields.\n",
+    "answer": "Texas Railroad Commission\n"
+  },
+  {
+    "questionText": "This contraband oil became the problem with getting the oil industry back to stability by undercutting the already low prices.\n",
+    "answer": "Hot Oil\n"
+  },
+  {
+    "questionText": "Name the agreement between states that helped stabilize the industry by voluntary quotas.\n",
+    "answer": "Interstate Oil Compact\n"
+  },
+  {
+    "questionText": "How many barrels of oil did Japan accidentally destroyed during the bombing of Pearl Harbor?\n",
+    "answer": "4.5 million bbl\n"
+  },
+  {
+    "questionText": "Before WWII, who were the three largest oil companies in Aisia?\n",
+    "answer": "Rising Sun, Standard Vacuum, Japanese Affiliates of Royal Dutch Company\n"
+  },
+  {
+    "questionText": "Who was Japan\u2019s largest importer of petroleum before WWII?\n",
+    "answer": "United States of America\n"
+  },
+  {
+    "questionText": "Name 2 of the 3 powers the \u201cPetroleum Industry Act\u201d of 1934 gave to the United States government?\n",
+    "answer": "Set Market Quotas, Fix Prices, Control imports/exports of petroleum\n"
+  },
+  {
+    "questionText": "What grade of oil did the United States ban from exports to Japan with the \u201cNational Defense Act?\u201d\n",
+    "answer": "Aviation Fuel (87+)\n"
+  },
+  {
+    "questionText": "What was I.G. Farben?\n",
+    "answer": "Largest German synthetic fuel chemical company\n"
+  },
+  {
+    "questionText": "Who is Friederich Bergius?\n",
+    "answer": "First man to successfully extract liquid from coal\n"
+  },
+  {
+    "questionText": "Who is Walter Teagle?\n",
+    "answer": "President of Standard Oil of New Jersey (1926)\n"
+  },
+  {
+    "questionText": "Who was Frank Howard?\n",
+    "answer": "Head of Research for Standard Oil of New Jersey in 1926\n"
+  },
+  {
+    "questionText": "What was Carl Bosch?\n",
+    "answer": "Chairman of I.G. Farben\n"
+  },
+  {
+    "questionText": "What is hydrogenation?\n",
+    "answer": "the process of extracting liquid from coal.\n"
+  },
+  {
+    "questionText": "At the start of WWII, which company lead Germany\u2019s synthetic fuel industry?\n",
+    "answer": "I.G. Farben\n"
+  },
+  {
+    "questionText": "In which American state did Standard Oil of New Jersey build a hydrogenation plant?\n",
+    "answer": "Louisiana\n"
+  },
+  {
+    "questionText": "Before the beginning of WWII, what percentage of Germany\u2019s total energy imports did the United States account for?\n",
+    "answer": "0.9\n"
+  },
+  {
+    "questionText": "Name the three main Caucasian Oil fields Hitler desired.\n",
+    "answer": "Baku, Maikop, Grzony\n"
+  },
+  {
+    "questionText": "Which oil field did Japan capture apart from Hawaii?\n",
+    "answer": "Borneo\n"
+  },
+  {
+    "questionText": "In 1945 which country invaded Manchuria?\n",
+    "answer": "Soviet Union\n"
+  },
+  {
+    "questionText": "When Did Japan run out of oil completely?\n",
+    "answer": "1944\n"
+  },
+  {
+    "questionText": "What did the Japanese call the oil rich region in which Borneo and Sumaria are located?\n",
+    "answer": "The Southern Zone\n"
+  },
+  {
+    "questionText": "In 1943, what was the name of the largest oil field between California and the Middle East?\n",
+    "answer": "Minas\n"
+  },
+  {
+    "questionText": "What oil field was Japan\u2019s only wildcat well drilled during WWII?\n",
+    "answer": "Minas\n"
+  },
+  {
+    "questionText": "H.C. Jansen desired to create a great oil center in the south pacific. What country did he want to place it?\n",
+    "answer": "Borneo\n"
+  },
+  {
+    "questionText": "Who pioneered the development of the seismograph?\n",
+    "answer": "Everette Lee DeGolyer\n"
+  },
+  {
+    "questionText": "To within 5%, what percentage of oil used by the Allies in WWII was produced by the United States?\n",
+    "answer": "0.9\n"
+  },
+  {
+    "questionText": "Everette DeGolyer was the first American to estimate the oil reserves in the Middle East. How much were the reserves that DeGolyer estimate?\n",
+    "answer": "25.0\n"
+  },
+  {
+    "questionText": "The California-Arabian Standard Oil Company (CASOC) was the partnership between which two American oil companies?\n",
+    "answer": "Socal and Texaco\n"
+  },
+  {
+    "questionText": "Name four of the six members of the Iraq Petroleum Company in 1946?\n",
+    "answer": "Jersey, Socony, Shell, Anglo-Iranian, CFP, Participants & Investments\n"
+  },
+  {
+    "questionText": " In 1947, Aramco merged with Jersey and Socony. What percentage of the company did each new partner receive?\n",
+    "answer": "Jersey \u2013 30%, Socony \u2013 10%\n"
+  },
+  {
+    "questionText": "What agreement in the original Iranian Petroleum Company contract was the major stumbling block to the Aramco merger with Jersey and Socony?\n",
+    "answer": "The Red Line Agreement\n"
+  },
+  {
+    "questionText": "Which two companies had a unique purchase-and-sale agreement to get Kuwaiti oil to European markets?\n",
+    "answer": "Gulf and Dutch/Shell Group\n"
+  },
+  {
+    "questionText": "In 1947, which company was the first to successfully drill for oil in the offshore Gulf of Mexico?\n",
+    "answer": "Kerr-McGee\n"
+  },
+  {
+    "questionText": "In 1947, Los Angeles was hooked up by large-diameter pipe to the gas fields of New Mexico and West Texas. What was the name of this pipeline, and who was its owner?\n",
+    "answer": "Biggest Inch; El Paso Natural gas\n"
+  },
+  {
+    "questionText": "The first successful well in the Neutral Zone was drilled in March 1953. Who originally identified the geologic structure where the well was drilled?\n",
+    "answer": "Paul Walton\n"
+  },
+  {
+    "questionText": "Which country was the first to adopt the 50/50 principle?\n",
+    "answer": "Venezuela\n"
+  },
+  {
+    "questionText": "During the 1950s, three other countries reworked their concession agreements to include the 50/50 principle. Name these three countries.\n",
+    "answer": "Saudi Arabia, Kuwait, Iraq\n"
+  },
+  {
+    "questionText": "What program was initiated in late 1956 to address limited oil supply to Western Europe during the Suez crisis?\n",
+    "answer": "Oil Lift\n"
+  },
+  {
+    "questionText": "Which country seized control of the Suez Canal in July 1956 starting the Suez Crisis?\n",
+    "answer": "Egypt\n"
+  },
+  {
+    "questionText": "Which oil industry technical improvement was a direct result of the Suez Crisis?\n",
+    "answer": "Super-Tankers\n"
+  },
+  {
+    "questionText": "When did the Iranian government pass a resolution to nationalize their oil industry?\n",
+    "answer": "March 1951\n"
+  },
+  {
+    "questionText": "The Gentleman\u2019s Agreement, signed during the 1959 Arab Oil Congress, is seen as the beginning of the alliance that would develop into OPEC. Name the five countries present at this preliminary meeting.\n",
+    "answer": "Venezuela, Saudi Arabia, Kuwait, Iran and Iraq\n"
+  },
+  {
+    "questionText": "Who are the five founding countries of OPEC?\n",
+    "answer": "Saudi Arabia, Venezuela, Iraq, Iran, Kuwait\n"
+  },
+  {
+    "questionText": "Significant oil deposits were discovered in four African countries during the 1950s. Name these four countries.\n",
+    "answer": "Gabon, Algeria, Nigeria, Libya\n"
+  },
+  {
+    "questionText": "Which company hit big at Zelten in Libya in April 1959?\n",
+    "answer": "Jersey\n"
+  },
+  {
+    "questionText": "The Mandatory Oil Import Program put into effect on March 10, 1959, restricted oil imports to the United States to what percentage of consumption?\n",
+    "answer": "9%\n"
+  },
+  {
+    "questionText": "Continental Oil Company, later Conoco, formed as a result of a merger between which two companies in 1929?\n",
+    "answer": "Rocky Mountain and Marland\n"
+  },
+  {
+    "questionText": "Henry Darcy began his work on fluid fluid flow while designing the fountains of this French city?\n",
+    "answer": "Dijon\n"
+  },
+  { "questionText": "Chevron and Gulf Oil Merged when?\n", "answer": "1984\n" },
+  {
+    "questionText": "When the standard trust broke up in 1911, what was the Chevron Branch called\n",
+    "answer": "SOCal\n"
+  },
+  {
+    "questionText": "Where is Saudi Aramco headquarters Dhahran, Saudi Arabia Largest oil field in the world?\n",
+    "answer": "Ghawar Field\n"
+  },
+  {
+    "questionText": "Royal Dutch Shell's HQ?\n",
+    "answer": "The Hague, Netherlands\n"
+  },
+  {
+    "questionText": "When was the tricone bit invented?\n",
+    "answer": "1933.0\n"
+  },
+  {
+    "questionText": "Who arranged the meeting of Juan Pablo Alfonzo and Abdullah Tariki at the 1959 Cairo Oil Congress?\n",
+    "answer": "Wanda Jablonski\n"
+  },
+  {
+    "questionText": "This is the term for a section of earth raised between two faults.\n",
+    "answer": "Horst\n"
+  },
+  {
+    "questionText": "This term or unit represents the hydrogen-ion concentration in a substance.\n",
+    "answer": "pH\n"
+  },
+  {
+    "questionText": "This is the name of a contract signed in July 1928 between several major oil companies (including Royal Dutch and AngloPersian) and that created a oil cartel in ex-Ottoman Empire territory.\n",
+    "answer": "Red Line Agreement\n"
+  },
+  {
+    "questionText": "This commonly used temperature scale in the industry named after a Scottish engineer has absolute zero set at 0 degrees while using Fahrenheit as its incremental degree.\n",
+    "answer": "Rankine\n"
+  },
+  {
+    "questionText": "This term describes the apparent weight loss of an object immersed in fluid.\n",
+    "answer": "Buoyancy\n"
+  },
+  {
+    "questionText": "This is constant when experiencing a Joule-Thompson effect.\n",
+    "answer": "Enthalpy\n"
+  },
+  {
+    "questionText": "This well log makes a record of the borehole diameter, which is usually constantly changing.\n",
+    "answer": "Caliper Log\n"
+  },
+  {
+    "questionText": "This is a type of sedimentary rock similar to limestone but rich in magnesium carbonate. It can also be a reservoir rock for petroleum sources.\n",
+    "answer": "Dolomite or CaMg(CO3)2\n"
+  },
+  {
+    "questionText": "This is the name for a wellbore completion that enables production from two separate zones.\n",
+    "answer": "Dual Completion\n"
+  },
+  {
+    "questionText": "This is the most common form of Artificial Lift used for offshore purposes.\n",
+    "answer": "Gas Lift\n"
+  },
+  {
+    "questionText": "This is the name for the classification system used for carbonate sedimentary rocks developed in 1946.\n",
+    "answer": "Dunham classification, Robert J. Dunham\n"
+  },
+  {
+    "questionText": "Name the 6 types of reservoirs by the type of fluid produced.\n",
+    "answer": "Heavy Oil, Black Oil, Volatile Oil, Wet Gas, Retrograde Condensate Gas, Dry Gas\n"
+  },
+  {
+    "questionText": "ExxonMobil drilled the deepest producing oil well in the world in Russia. What is the name of the oilfield and how deep is it in feet?\n",
+    "answer": "Chayvo, 40604 feet\n"
+  },
+  {
+    "questionText": "What is the current US rig count?\n",
+    "answer": "1754 rigs\n"
+  },
+  {
+    "questionText": "Who believed the Middle East to be the \"greatest prize in history\" due to its oil reservoirs, and the inspiration for Daniel Yergin's book The Prize?\n",
+    "answer": "Everett Lee DeGolyer\n"
+  },
+  {
+    "questionText": "This German company conducted research on synthetic fuels for Germany's war effort during WWII.\n",
+    "answer": "I.G. Farben\n"
+  },
+  {
+    "questionText": "This is the name given to permanently frozen soil or earth that can often cause problems for industry operations.\n",
+    "answer": "Permafrost\n"
+  },
+  {
+    "questionText": "Oil and Gas are considered to be organic because they have this.\n",
+    "answer": "Carbon\n"
+  },
+  {
+    "questionText": "What event was most responsible for the increase in oil prices in 1974?\n",
+    "answer": "Arab Oil Embargo\n"
+  },
+  {
+    "questionText": "The functional segments Exploration and Production, or E&P, can also be referred to by this one word commonly used in the industry.\n",
+    "answer": "Upstream\n"
+  },
+  {
+    "questionText": "Drilled solids in mud act to increase what two characteristics of the mud?\n",
+    "answer": "Density and Viscosity\n"
+  },
+  {
+    "questionText": "On a drilling rig, the fast line and the static line through the blocks have the same force only in this situation concerning the drilling blocks.\n",
+    "answer": "Blocks are stationary\n"
+  },
+  {
+    "questionText": "What is the recommended pressure (psi) used for a standard API filtration test?\n",
+    "answer": "100 psi\n"
+  },
+  {
+    "questionText": "Name two positive displacement pumps.\n",
+    "answer": "PCP and Beam Lift (Rod Pump)\n"
+  },
+  {
+    "questionText": "This k-factor often used in reservoir engineering applications relates particle energy to temperature and is named after this Austrian physicist.\n",
+    "answer": "Ludwig Boltzmann\n"
+  },
+  {
+    "questionText": "What is the maximum number of coexisting phases at equilibrium for a pure fluid?\n",
+    "answer": "Three, 3\n"
+  },
+  {
+    "questionText": "Above ice's melting point, does the specific volume of the substance increase or decrease?\n",
+    "answer": "decreases\n"
+  },
+  {
+    "questionText": "This cycle developed by a French engineer demonstrates the most efficient cycle for converting thermal energy into work, or extracting the most work from a given flow of heat between two temperature baths.\n",
+    "answer": "Carnot cycle\n"
+  },
+  {
+    "questionText": " If I treat my drilling mud with lignosulfonate, I likely have this type of problem or issue.\n",
+    "answer": "Flocculation\n"
+  },
+  {
+    "questionText": "Why would an operator choose to conduct a Methylene blue test on drilling mud?\n",
+    "answer": "Determine cation exchange capacity or bentonite clay content of the mud\n"
+  },
+  {
+    "questionText": "What Las Colinas, Dallas based oil company is traded on the NYSE under the symbol \u201cPXD\u201d?\n",
+    "answer": "Pioneer Natural Resources\n"
+  },
+  {
+    "questionText": "What is the name of the SPE International chapter that New Orleans is a part of?\n",
+    "answer": "SPE Delta Chapter\n"
+  },
+  {
+    "questionText": "Who is the president of the SPE Delta chapter?\n",
+    "answer": "Paul Morphy III, Shell Offshore, Inc.\n"
+  },
+  {
+    "questionText": "In what year did SPE\u2019s first female president serve and what is her name?\n",
+    "answer": "1998, DeAnn Craig\n"
+  },
+  {
+    "questionText": "Name the last five SPE Presidents (2011-2015)\n",
+    "answer": "Labastie, Thakur, Imomoh, Spath, Haldorsen\n"
+  },
+  {
+    "questionText": "This company is publically traded under both the Toronto Stock Exchange and the New York Stock Exchange with a ticker of TSX\n",
+    "answer": "TransCanada\n"
+  },
+  {
+    "questionText": "This Canadian-based pipeline and transportation company has been lobbying hard for the Keystone XL pipeline, which would transport heavy oils from Canada oil sands to the Gulf Coast.\n",
+    "answer": "TransCanada\n"
+  },
+  {
+    "questionText": "This former CEO for a well-known Oklahoma-based gas producer was recently voted by shareholders to no longer return to his position and retire.\n",
+    "answer": "Aubrey McClendon\n"
+  },
+  {
+    "questionText": "This is a Pulitzer Prize winning American author who is the chairman of Cambridge Energy Research Associates.\n",
+    "answer": "Daniel Yergin\n"
+  },
+  {
+    "questionText": "In October 2011, this American energy company bought El Paso Corporation in a 21.2 billion deal that made the company the biggest U.S. Pipeline operator.\n",
+    "answer": "Kinder Morgan Inc.\n"
+  },
+  {
+    "questionText": "The US Strategic Petroleum Reserve is the largest emergency oil supply in the world with the capacity to hold up to how many million barrels of oil?\n",
+    "answer": "727 million\n"
+  },
+  {
+    "questionText": "Regarding phase behavior, this is the point where 3 phases coexist in equilibrium.\n",
+    "answer": "Triple Point\n"
+  },
+  {
+    "questionText": "Name the two most common elements in the Earth's crust?\n",
+    "answer": "Oxygen, Silicon\n"
+  },
+  {
+    "questionText": "This commonly used solids carrier for fracture treatments undergoes frequent price swings as most of the material comes from farms in India.\n",
+    "answer": "Guar Gum\n"
+  },
+  {
+    "questionText": "The tensile strength of standard cement is roughly ______ times less than the compressive strength?\n",
+    "answer": "10-12x\n"
+  },
+  {
+    "questionText": "The main difference between the Driller's Method and the Wait and Weight method of killing a well is?\n",
+    "answer": "Number of mud circulations, driller's is 2, W&W is 1.\n"
+  },
+  {
+    "questionText": "Concerning geostatistical or other statistical analysis, what relationship do standard deviation and variance have?\n",
+    "answer": "SD = sqrt(variance) or Variance = SD^2\n"
+  },
+  {
+    "questionText": "Who is the CEO for Petrobras?\n",
+    "answer": "Maria das Gracas Foster\n"
+  },
+  {
+    "questionText": "In 1923, this Texas company developed the industry's first enclosed, geared pumping unit.\n",
+    "answer": "Lufkin\n"
+  },
+  {
+    "questionText": "In 2007, two countries joined OPEC and are its newest members. Name one.\n",
+    "answer": "Angola, Ecuador.\n"
+  },
+  {
+    "questionText": "What is the equation for the minimum porosity in a dispersed shale?\n",
+    "answer": "Porosity = sand porosity * shale porosity\n"
+  },
+  {
+    "questionText": "This is a device run during drilling with a smaller initial outside diameter that expands to seal the wellbore. They often use flexible, elastic elements to expand.\n",
+    "answer": "Packers\n"
+  },
+  {
+    "questionText": "What is the name of the commonly used correlation to estimate fracture pressure?\n",
+    "answer": "Eaton's Correlation\n"
+  },
+  {
+    "questionText": "A marsh funnel is used on a rig to determine this.\n",
+    "answer": "Viscosity\n"
+  },
+  {
+    "questionText": "What equation represents Boyle's Law?\n",
+    "answer": "PV1 = PV2.\n"
+  },
+  {
+    "questionText": "The derrick received its name from Thomas Derrick, a 17th century Englishman that invented a system of ropes and pulleys for his occupation that would later become the inspiration for a drilling derrick. What is his occupation?\n",
+    "answer": "Executioner, Hangman\n"
+  },
+  {
+    "questionText": "At what level or percentage of sulfur content is crude oil considered to be sour crude oil?\n",
+    "answer": ".5%\n"
+  },
+  {
+    "questionText": "Name the process of physical, chemical, or biological alteration of sediments during or after they have been deposited.\n",
+    "answer": "Diagenesis\n"
+  },
+  {
+    "questionText": "This Cajun-inspired term is used to describe the soft and sticky formation encountered when drilling that plugs up drilling tools, piping, and shale shaker screens.\n",
+    "answer": "Gumbo\n"
+  },
+  {
+    "questionText": "This material is a solid that begins to form on catalysts used in cracking processes and refineries.\n",
+    "answer": "Coke\n"
+  },
+  {
+    "questionText": "In what decade was the first horizontal well drilled in Texon, Texas?\n",
+    "answer": "1920s (1929)\n"
+  },
+  {
+    "questionText": "Name 4 components of an ESP, or electric submersible pump.\n",
+    "answer": "Rotor, stator, motor, diffuser, impeller\n"
+  },
+  {
+    "questionText": "In May 2012, this US state became the first to ban hydraulic fracturing, or fracing.\n",
+    "answer": "Vermont\n"
+  },
+  {
+    "questionText": "Name the first European country to ban the use of hydraulic fracturing.\n",
+    "answer": "France\n"
+  },
+  {
+    "questionText": "Name the year the petroleum branch of AIME became a fullfledged professional society that would become SPE.\n",
+    "answer": "1957.0\n"
+  },
+  {
+    "questionText": "Name the country that is the world's leading LNG exporter that has received recent publicity for hosting the 2022 FIFA world cup.\n",
+    "answer": "Qatar\n"
+  },
+  {
+    "questionText": "What is the name for the chemical that is frequently used to alter mud pH levels while drilling.\n",
+    "answer": "Lime\n"
+  },
+  {
+    "questionText": "This sand from St. Peters sandstone is used as proppant in hydraulic fracturing in the USA and gets its name from this city in Illinois. Name the city.\n",
+    "answer": "Ottawa\n"
+  },
+  {
+    "questionText": "Compaction drive is defined as the expulsion of fluids due to the dynamic reduction of what reservoir property?\n",
+    "answer": "Porosity\n"
+  },
+  {
+    "questionText": "When a source rock is examined under a reflectance microscope, the amount of light reflected by this plant organic matter helps define the maturity of the source rock. Name this organic matter.\n",
+    "answer": "Vitrinite (vitrinite reflectance)\n"
+  },
+  {
+    "questionText": "What country is the number one source of U.S. oil imports, providing around 25% of US oil imports.\n",
+    "answer": "Canada\n"
+  },
+  {
+    "questionText": "What former scientist became the first world leader to give a major policy speech on climate change in 1988? \n",
+    "answer": "Margaret Thatcher\n"
+  },
+  {
+    "questionText": "Carbonate sedimentary rock composed of mostly calcite is what\n",
+    "answer": "limestone\n"
+  },
+  {
+    "questionText": "Identify the aspect of logging that employs an electrical cable to lower tools into the borehole and is distinct from measurements while drilling and well logging\n",
+    "answer": "Wireline\n"
+  },
+  {
+    "questionText": "The underground process of \"diagenetic override\" leads to a reservoir characterized as?\n",
+    "answer": "tight\n"
+  },
+  {
+    "questionText": "On March 31, 2012, this oil rig owned by Shell ran aground off the coast of Alaska.\n",
+    "answer": "The Kulluk\n"
+  },
+  {
+    "questionText": "What 3 states account for over half of all domestic refining capacity?\n",
+    "answer": "Texas, Louisiana, California\n"
+  },
+  {
+    "questionText": "The coefficient of isothermal compressibility has the unit of inverse psi, more commonly known as what in the industry?\n",
+    "answer": "sip\n"
+  },
+  {
+    "questionText": "An important area for Gazprom because it produces 95% of Russia's Natural Gas. Name this region that is often associated with tundra.\n",
+    "answer": "Siberia\n"
+  },
+  {
+    "questionText": "A laboratory device used to measure the way in which a slurry flows in response to applied forces.\n",
+    "answer": "rheometer\n"
+  },
+  {
+    "questionText": "The color of petroleum is determined largely by what two components?\n",
+    "answer": "Resins and Asphaltenes\n"
+  },
+  {
+    "questionText": "When a material is compressed in one direction, it usually tends to expand in the other two directions perpendicular to the direction of compression. This phenomenon is called the\n",
+    "answer": "Poisson effect\n"
+  },
+  {
+    "questionText": "The act of drilling with the mud pressure greater than the formation pressure is known as...\n",
+    "answer": "Overbalanced Drilling\n"
+  },
+  {
+    "questionText": "In reservoir simulation, Peaceman's correction is used to model what part of the reservoir?\n",
+    "answer": "Near-well region\n"
+  },
+  {
+    "questionText": "This instrument determines the amount of oil, water, and solids in drilling mud.\n",
+    "answer": "Mud Retort\n"
+  },
+  {
+    "questionText": "What are the 3 data transmission methods used for MWD?\n",
+    "answer": "Mud pulse telemetry, Electromagnetic telemetry, Wired Drill Pipe\n"
+  },
+  {
+    "questionText": "This modern day company began as The Ohio Oil Company in 1887 before being bought by Standard Oil in 1889 and later by United States Steel in 1982.\n",
+    "answer": "Marathon Oil Company\n"
+  },
+  {
+    "questionText": "This man used the phrase \u201cthe Great Game\u201d\u2014 the struggle to accomplish and build, and the drive to make money, both for its own sake and as a register of achievement. Who was he?\n",
+    "answer": "John D. Rockefeller\n"
+  },
+  {
+    "questionText": "This French engineer was working as the Inspector General of Bridges and Highways in Paris when he modified the Prony Equation into the well-known form we use today.\n",
+    "answer": "Henry Darcy\n"
+  },
+  {
+    "questionText": "Aa sweet-tasting synthetic ingredient used in toothpaste and other products -- is a petrochemical derived from oil.\n",
+    "answer": "Glycerin\n"
+  },
+  {
+    "questionText": "Name the two largest conventional oil fields in the world, and their location\n",
+    "answer": "Ghawar Field in Saudi Arabia and Burgan Field in Kuwait\n"
+  },
+  {
+    "questionText": "This SPE award is given to outstanding faculty of Petroleum Engineering and has been awarded to such Professors as Dr. Sharma, Dr. Pope, Dr. Caudle, and Dr. Lake.\n",
+    "answer": "Distinguished Achievement Award for Petroleum Engineering Faculty\n"
+  },
+  {
+    "questionText": "Home to some of the world's largest recent oil discoveries, Brazil is an important Latin American power. Name the President of Brazil.\n",
+    "answer": "Dilma Rousseff\n"
+  },
+  {
+    "questionText": "Soft sediment deformation is most typical in which facies of deltaic deposits?\n",
+    "answer": "delta front facies\n"
+  },
+  {
+    "questionText": "This physical characteristic is the temperature at which wax begins to solidify and is identified by the onset of turbidity as the temperature is lowered\n",
+    "answer": "Cloud Point\n"
+  },
+  {
+    "questionText": "What is the name given for the 1D water flood problem that has an analytical solution?\n",
+    "answer": "Bulkley-Leverett\n"
+  },
+  {
+    "questionText": "List two common types of pressure transient analysis?\n",
+    "answer": "Buildup and drawdown tests\n"
+  },
+  {
+    "questionText": "This type of motion is the presumably random moving of particles suspended in a fluid (liquid or gas) resulting from their bombardment by the fast-moving atoms in the gas or liquid.\n",
+    "answer": "Brownian Motion\n"
+  },
+  {
+    "questionText": "Uncontrolled discharge of formation fluid out of the wellbore is known as\n",
+    "answer": "Blowout\n"
+  },
+  {
+    "questionText": "The equation that relates chemical reaction rates to the temperature and includes such terms as Activation Energy, Temperature, and the universal gas constant.\n",
+    "answer": "Arrhenius Equation\n"
+  },
+  {
+    "questionText": "Name the first well surveying tool to be used\n",
+    "answer": "Acid Bottle\n"
+  },
+  {
+    "questionText": "One bbl of oil accounts for approximately how many gallons of diesel fuel?\n",
+    "answer": "9.21 gallons\n"
+  },
+  {
+    "questionText": "What is the standard length of drill pipe?\n",
+    "answer": "30 Ft\n"
+  },
+  {
+    "questionText": "The US has approximately how many miles of oil pipelines within its borders?\n",
+    "answer": "240,000 miles\n"
+  },
+  {
+    "questionText": "This temperature window allows for the creation of crude oil from organic matter in sedimentary rocks. What are these values?\n",
+    "answer": "150-300F\n"
+  },
+  {
+    "questionText": "There exists a limiting gas liquid ratio, where the decrease in hydrostatic pressure will be offset by what?\n",
+    "answer": "increase frictional pressure drop\n"
+  },
+  {
+    "questionText": "What are the 2 possible ways single phase flow can be characterized?\n",
+    "answer": "laminar or turbulent\n"
+  },
+  {
+    "questionText": "What is the term for the ratio of the resistivity of a rock filled with water to the resistivity of that water?\n",
+    "answer": "Formation factor\n"
+  },
+  {
+    "questionText": "What is the term used to describe a high-quality low sulfur oil?\n",
+    "answer": "sweet\n"
+  },
+  {
+    "questionText": "What amendment to the 1955 trade act gave the president the ability to restrict oil imports?\n",
+    "answer": "National Security Amendment\n"
+  },
+  {
+    "questionText": "The second half of the 20th century was referred to as what?\n",
+    "answer": "The age of the hydrocarbon man\n"
+  },
+  {
+    "questionText": "In the 1950\u2019s three oil companies including continental, marathon, and Amerada went to Libya and formed a coalition known as what?\n",
+    "answer": "Oasis Group\n"
+  },
+  {
+    "questionText": "In what year did the supreme court finally order the standard oil company to dissolve due to the Sherman act?\n",
+    "answer": "May, 1911\n"
+  },
+  {
+    "questionText": "In the dismantling of standard oil, how many smaller companies did they divide into?\n",
+    "answer": "7\n"
+  },
+  {
+    "questionText": "In December of 1901 which company did the shell group merge with to form British Dutch?\n",
+    "answer": "The Royal Dutch\n"
+  },
+  {
+    "questionText": "What is the equation for gas specific gravity?\n",
+    "answer": "YG=Y/Yair\n"
+  },
+  {
+    "questionText": "What is a vessel used to treat or separate water-oil emulsions?\n",
+    "answer": "Treater\n"
+  },
+  {
+    "questionText": "In offshore operations, what does FPSO stand for?\n",
+    "answer": "Floating Production, Storage, and Offloading Vessel\n"
+  },
+  {
+    "questionText": "What is the average world's water cut associated with oil production?\n",
+    "answer": "25%\n"
+  },
+  {
+    "questionText": "Wildcatter's used to taste and classify oils as sweet, medium sour, and sour based on what property of oil?\n",
+    "answer": "Sulfur content\n"
+  }
+]

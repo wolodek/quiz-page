@@ -5,11 +5,11 @@
           <el-row>
             <el-col justify="middle" :span="20">
               <div>
-                {{question}}
+                {{currentQuestion.questionText}}
               </div>
             </el-col>
             <el-col justify="middle" :span="4">
-              <el-button  @click="questionHidden = !questionHidden" v-if="questionHidden" plain type="primary" icon="el-icon-arrow-down"></el-button>
+              <el-button @click="questionHidden = !questionHidden" v-if="questionHidden" plain type="primary" icon="el-icon-arrow-down"></el-button>
               <el-button @click="questionHidden = !questionHidden" v-else plain type="primary" icon="el-icon-arrow-up"></el-button>
             </el-col>
           </el-row>
@@ -17,7 +17,7 @@
             <el-col justify="middle" align="middle" :span="24">
               <transition name="el-fade-in-linear">
               <div v-show="!questionHidden" >
-                <p>{{answer}}</p>
+                <p>{{currentQuestion.answer}}</p>
                 </div>
             </transition>
             </el-col>
@@ -25,11 +25,8 @@
       </el-main>
       <el-footer class="p-0">
         <el-row>
-          <el-button plain disabled type="primary"> 
-            Poprzednie <span class="hide-on-mobile"> pytanie </span>
-            </el-button>
-          <el-button plain type="primary">
-            Następne <span class="hide-on-mobile"> pytanie </span>
+          <el-button plain type="primary" @click="next">
+            Next <span class="hide-on-mobile"> question </span>
           </el-button>
         </el-row>
       </el-footer>
@@ -38,15 +35,38 @@
 </template>
 
 <script>
+import questions from '../assets/questions.json';
+
 export default {
   name: 'QuestionContainer',
   data() {
     return {
-      question: 'Powiedz kotku co masz w środku',
-      answer: 'jajco23123 321111111111111111111111 11111111111111111111111111111111111 111111111111111111111111111111111',
+      currentQuestionId: 0,
+      questions,
       questionHidden: true,
+
     }
   },
+  mounted() {
+    this.currentQuestionId = this.generateRandomQuestionId();
+  },
+  computed: {
+    currentQuestion() {
+      return this.questions[this.currentQuestionId];
+    },
+    maxQuestionId(){
+      return this.questions.length;
+    }
+  },
+  methods: {
+    next() {
+      this.questionHidden = true;
+      this.currentQuestionId = this.generateRandomQuestionId();
+    },
+    generateRandomQuestionId() {
+      return Math.floor(((Math.random()*this.maxQuestionId)) + 1)
+    }
+  }
 }
 </script>
 
