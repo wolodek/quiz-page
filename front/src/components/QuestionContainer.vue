@@ -3,28 +3,31 @@
     <el-container class="max-width" justify="center" align="center">
       <el-main>
           <el-row>
-            <el-col justify="middle" :span="20">
-              <div>
+            <el-col justify="center" :span="20">
+              <div id="question">
                 {{currentQuestion.questionText}}
               </div>
             </el-col>
-            <el-col justify="middle" :span="4">
+            <el-col justify="center" :span="4">
               <el-button @click="questionHidden = !questionHidden" v-if="questionHidden" plain type="primary" icon="el-icon-arrow-down"></el-button>
               <el-button @click="questionHidden = !questionHidden" v-else plain type="primary" icon="el-icon-arrow-up"></el-button>
             </el-col>
           </el-row>
           <el-row class="min-height">
-            <el-col justify="middle" align="middle" :span="24">
+            <el-col :span="24">
               <transition name="el-fade-in-linear">
-              <div v-show="!questionHidden" >
-                <p>{{currentQuestion.answer}}</p>
+                <div v-show="!questionHidden" >
+                  <p>{{currentQuestion.answer}}</p>
                 </div>
-            </transition>
+              </transition>
             </el-col>
           </el-row>
       </el-main>
       <el-footer class="p-0">
         <el-row>
+          <el-button plain type="primary" @click="previous" :disabled="questionsHistory.length===0">
+            Previous <span class="hide-on-mobile"> question </span>
+          </el-button>
           <el-button plain type="primary" @click="next">
             Next <span class="hide-on-mobile"> question </span>
           </el-button>
@@ -44,7 +47,8 @@ export default {
       currentQuestionId: 0,
       questions,
       questionHidden: true,
-
+      questionsHistory: [],
+      disabled: false,
     }
   },
   mounted() {
@@ -61,7 +65,13 @@ export default {
   methods: {
     next() {
       this.questionHidden = true;
+      this.questionsHistory.push(this.currentQuestionId);
       this.currentQuestionId = this.generateRandomQuestionId();
+    },
+    previous() {
+      if (this.questionsHistory.length > 0) {
+        this.currentQuestionId = this.questionsHistory.pop();
+      }
     },
     generateRandomQuestionId() {
       return Math.floor(((Math.random()*this.maxQuestionId)) + 1)
@@ -75,10 +85,20 @@ export default {
 .min-height {
   min-height: 100px;
 }
+#question {
+  min-height: 40px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  padding-right: 10px;
+}
 @media (max-width: 600px) {
   .hide-on-mobile{
     display: none;
   }
+}
+.el-fade-in-linear-leave-active {
+  display: none !important;
 }
 
 </style>

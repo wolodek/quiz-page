@@ -300,85 +300,157 @@
     "answer": "Injection Pressure\n"
   },
   {
-    "questionText": "What piece of common production facility equipment is used to remove any free water in the produced oil? free-water knockout\n",
-    "answer": "\n"
+    "questionText": "What piece of common production facility equipment is used to remove any free water in the produced oil? \n",
+    "answer": "free-water knockout\n"
   },
   {
-    "questionText": "SP, Gamma Ray, Resistivity, Sonic, Density, Dipmeter, Microlog\n",
-    "answer": "\n"
-  },
-  { "questionText": "Induction, Lateral\n", "answer": "\n" },
-  { "questionText": "Vogel\u2019s Equation for two phases\n", "answer": "\n" },
-  { "questionText": "Casing and Tubing Guns\n", "answer": "\n" },
-  { "questionText": "51.5 lbm/ cu. Ft\n", "answer": "\n" },
-  { "questionText": "Smectite\n", "answer": "\n" },
-  { "questionText": "Mud Acid\n", "answer": "\n" },
-  { "questionText": "Glycol Tower\n", "answer": "\n" },
-  { "questionText": "Exponential, Hyperbolic, Harmonic\n", "answer": "\n" },
-  {
-    "questionText": "rate of return, internal rate of return\n",
-    "answer": "\n"
-  },
-  { "questionText": "Dewatering the field\n", "answer": "\n" },
-  { "questionText": "gas-to-liquid\n", "answer": "\n" },
-  { "questionText": "gas condensate\n", "answer": "\n" },
-  { "questionText": "Dispersed, Structural, Laminated DSL\n", "answer": "\n" },
-  { "questionText": "Black-oil\n", "answer": "\n" },
-  { "questionText": "in-situ-combustion\n", "answer": "\n" },
-  {
-    "questionText": "Work done per unit area in expanding the surface of a liquid in contact with another phase\n",
-    "answer": "\n"
+    "questionText": "Name 4 types of well logs.\n",
+    "answer": "SP, Gamma Ray, Resistivity, Sonic, Density, Dipmeter, Microlog\n"
   },
   {
-    "questionText": "work done per unit area in expanding surface of a liquid against its own vapor phase\n",
-    "answer": "\n"
+    "questionText": "Name two types of resistivity logs.\n",
+    "answer": "Induction, Lateral\n"
   },
   {
-    "questionText": "P/z plots, Material Balance, Volumetrics\n",
-    "answer": "\n"
-  },
-  { "questionText": "Connate, Virgin\n", "answer": "\n" },
-  { "questionText": "Structural, Stratigraphic\n", "answer": "\n" },
-  { "questionText": "Formation Factor\n", "answer": "\n" },
-  {
-    "questionText": "Laminar flow, steady state, non-compressible fluid, complete segregation (non-interacting fluid)\n",
-    "answer": "\n"
+    "questionText": "When the wellbore pressure goes below the bubble point pressure, what equation should be used to calculate the productivity?\n",
+    "answer": "Vogel\u2019s Equation for two phases\n"
   },
   {
-    "questionText": "Critical Point, Bubble Point, Dew Point, Cricondentherm, Cricondenbar\n",
-    "answer": "\n"
+    "questionText": "Define two types of perforating guns.\n",
+    "answer": "Casing and Tubing Guns\n"
   },
   {
-    "questionText": "Maximum temperature at which two phases can exist\n",
-    "answer": "\n"
+    "questionText": "If the API gravity of an oil is 40 degrees, what\u2019s the density of the oil in lbm/cu. Ft?\n",
+    "answer": "51.5 lbm/ cu. Ft\n"
   },
   {
-    "questionText": "Maximum pressure at which two phases can exist\n",
-    "answer": "\n"
+    "questionText": "What is the most common swelling clay?\n",
+    "answer": "Smectite\n"
   },
-  { "questionText": "Dr. M King Hubbert\n", "answer": "\n" },
   {
-    "questionText": "Prince Abdulaziz bin Salman bin Abdulaziz al-Saud (2019)\n",
-    "answer": "\n"
+    "questionText": "What is the oilfield term for a mixture of HF and HCL used as the main fluid in a sandstone matrix acidizing treatment?\n",
+    "answer": "Mud Acid\n"
   },
-  { "questionText": "Gorgon gas field\n", "answer": "\n" },
-  { "questionText": "OGX, Started in 2007 by Eike Batista\n", "answer": "\n" },
   {
-    "questionText": "Bolivar Coastal Field on Lake Maracaibo discovered 1917\n",
-    "answer": "\n"
+    "questionText": "What piece of equipment is commonly used to dehydrate produced gas?\n",
+    "answer": "Glycol Tower\n"
   },
-  { "questionText": "1953\n", "answer": "\n" },
-  { "questionText": "Carioca/Sugarloaf field\n", "answer": "\n" },
-  { "questionText": "Petroecuador\n", "answer": "\n" },
-  { "questionText": "Texaco (Chevron Texaco is being sued)\n", "answer": "\n" },
   {
-    "questionText": "ConocoPhillips, Exxon Mobil, Chevron, and Marathon Oil\n",
-    "answer": "\n"
+    "questionText": "What are the three types of commonly recognized decline curves?\n",
+    "answer": "Exponential, Hyperbolic, Harmonic\n"
   },
-  { "questionText": "Chevron\n", "answer": "\n" },
   {
-    "questionText": "Direct Petroleum Exploration (from Denver, CO)\n",
-    "answer": "\n"
+    "questionText": "Which measure of project profitability is the discount (interest) rate at which the net present value equals 0?\n",
+    "answer": "rate of return, internal rate of return\n"
+  },
+  {
+    "questionText": "What is commonly the first step in producing a coal-bed methane field?\n",
+    "answer": "Dewatering the field\n"
+  },
+  {
+    "questionText": "What method converts natural gas to clean diesel?\n",
+    "answer": "gas-to-liquid\n"
+  },
+  {
+    "questionText": "What type of petroleum reservoir is easily identified by the occurrence of retrograde condensation?\n",
+    "answer": "gas condensate\n"
+  },
+  {
+    "questionText": "In terms of spatial distribution in the pore space, what are the three classifications for clays?\n",
+    "answer": "Dispersed, Structural, Laminated DSL\n"
+  },
+  {
+    "questionText": "In non-compositional simulation what is the most common fluid model used?\n",
+    "answer": "Black-oil\n"
+  },
+  {
+    "questionText": "Which method of heavy oil production aims to upgrade the oil insitu?\n",
+    "answer": "in-situ-combustion\n"
+  },
+  {
+    "questionText": "Define interfacial tension.\n",
+    "answer": "Work done per unit area in expanding the surface of a liquid in contact with another phase\n"
+  },
+  {
+    "questionText": "Define surface tension.\n",
+    "answer": "work done per unit area in expanding surface of a liquid against its own vapor phase\n"
+  },
+  {
+    "questionText": "Name three ways to estimate gas in place.\n",
+    "answer": "P/z plots, Material Balance, Volumetrics\n"
+  },
+  {
+    "questionText": "What is the original, unaltered water found deep within a reservoir called?\n",
+    "answer": "Connate, Virgin\n"
+  },
+  {
+    "questionText": "Name two types of traps for oil.\n",
+    "answer": "Structural, Stratigraphic\n"
+  },
+  {
+    "questionText": "Name the technical definition of the ratio of the resistivity of a rock filled with water to the resistivity of that water.\n",
+    "answer": "Formation Factor\n"
+  },
+  {
+    "questionText": "What conditions are required for Darcy\u2019s Law to be valid?\n",
+    "answer": "Laminar flow, steady state, non-compressible fluid, complete segregation (non-interacting fluid)\n"
+  },
+  {
+    "questionText": "Name 4 points on a binary phase diagram.\n",
+    "answer": "Critical Point, Bubble Point, Dew Point, Cricondentherm, Cricondenbar\n"
+  },
+  {
+    "questionText": "What is a cricondentherm?\n",
+    "answer": "Maximum temperature at which two phases can exist\n"
+  },
+  {
+    "questionText": "What is a cricondenbar\n",
+    "answer": "Maximum pressure at which two phases can exist\n"
+  },
+  {
+    "questionText": "The concept of peak oil is named after what noted geophysicist?\n",
+    "answer": "Dr. M King Hubbert\n"
+  },
+  {
+    "questionText": "Who is the current Saudi oil minister?\n",
+    "answer": "Prince Abdulaziz bin Salman bin Abdulaziz al-Saud (2019)\n"
+  },
+  {
+    "questionText": "What large Australian gas field is being developed by a joint venture of Chevron, Exxon, and Shell with Chevron as the operator?\n",
+    "answer": "Gorgon gas field\n"
+  },
+  {
+    "questionText": "What is the second largest oil and gas company in Brazil?\n",
+    "answer": "OGX, Started in 2007 by Eike Batista\n"
+  },
+  {
+    "questionText": "What is the largest field in Venezuela?\n",
+    "answer": "Bolivar Coastal Field on Lake Maracaibo discovered 1917\n"
+  },
+  { "questionText": "What year was Petrobras formed?\n", "answer": "1953\n" },
+  {
+    "questionText": "What recent Brazilian discovery could be the third largest oilfield in the world?\n",
+    "answer": "Carioca/Sugarloaf field\n"
+  },
+  {
+    "questionText": "What is the national oil company of Ecuador?\n",
+    "answer": "Petroecuador\n"
+  },
+  {
+    "questionText": "What US company had a joint venture with Petroecuador for 20 years beginning in 1964 and was sued for environmental damage?\n",
+    "answer": "Texaco (Chevron Texaco is being sued)\n"
+  },
+  {
+    "questionText": "Which 4 major U.S. companies have leased land in Poland in the new shale gas play there?\n",
+    "answer": "ConocoPhillips, Exxon Mobil, Chevron, and Marathon Oil\n"
+  },
+  {
+    "questionText": "Which company leased a million acres in Poland?\n",
+    "answer": "Chevron\n"
+  },
+  {
+    "questionText": "Who drilled the first shale gas discovery well in Bulgaria?\n",
+    "answer": "Direct Petroleum Exploration (from Denver, CO)\n"
   },
   {
     "questionText": "What is the name of the field of the BP oil spill?\n",
